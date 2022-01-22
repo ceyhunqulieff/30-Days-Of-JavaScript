@@ -23,7 +23,7 @@
 
 </div>
 
-[Gün 2 >>](./AZ/02_Day_Data_types/02_day_data_types.md)
+[Gün 2 >>](./02_Day_Data_types/02_day_data_types.md)
 
 ![Thirty Days Of JavaScript](../images/day_1_1.png)
 
@@ -90,11 +90,11 @@ Bu çağırışı yerinə yetirmək üçün proqramlaşdırma üzrə əvvəlcəd
 
 Hazırda Node.js-ə ehtiyacınız olmasada, lakin daha sonra ehtiyacınız ola bilər. [Node.js](https://nodejs.org/en/) quraşdırın.
 
-![Node download](images/download_node.png)
+![Node download](../images/download_node.png)
 
 Yüklədikdən sonra iki dəfə klikləyin və quraşdırın
 
-![Install node](images/install_node.png)
+![Install node](../images/install_node.png)
 
 Cihaz terminalımızı(Command Prompt) və ya əmr sətirini açaraq yerli maşınımızda node quraşdırılıb-quraşdırılmadığını yoxlaya bilərik.
 
@@ -114,13 +114,13 @@ Orada bir çox brauzer var. Bununla belə, mən Google Chrome-u şiddətlə töv
 Əgər hələ də yoxdursa, [Google Chrome](https://www.google.com/chrome/) quraşdırın.
 Install [Google Chrome](https://www.google.com/chrome/) if you do not have one yet. Biz brauzer konsolunda kiçik JavaScript kodu yaza bilərik, lakin proqramların hazırlanması üçün brauzer konsolundan istifadə etmirik.
 
-![Google Chrome](images/google_chrome.png)
+![Google Chrome](../images/google_chrome.png)
 
 #### Google Chrome Konsolu açılır
 
 Siz Google Chrome konsolunu brauzerin yuxarı sağ küncündəki üç nöqtəyə klikləməklə, Daha çox alətlər -> Developer alətləri seçməklə və ya klaviatura qısa yolundan istifadə etməklə aça bilərsiniz. Qısayollardan istifadə etməyi üstün tuturam.
 
-![Opening chrome](images/opening_developer_tool.png)
+![Opening chrome](../images/opening_developer_tool.png)
 
 Klaviatura qısa yolundan istifadə edərək Chrome konsolunu açmaq üçün.
 
@@ -132,11 +132,11 @@ Windows/Linux:
 Ctl+Shift+J
 ```
 
-![Opening console](images/opening_chrome_console_shortcut.png)
+![Opening console](../images/opening_chrome_console_shortcut.png)
 
 Google Chrome konsolunu açdıqdan sonra işarələnmiş düymələri araşdırmağa çalışın. Biz vaxtımızın çox hissəsini Konsolda keçirəcəyik. Konsol JavaScript kodunuzun getdiyi yerdir. Google Console V8 mühərriki JavaScript kodunuzu maşın koduna çevirir. Gəlin Google Chrome konsolunda JavaScript kodu yazaq:
 
-![write code on console](./images/js_code_on_chrome_console.png)
+![write code on console](../images/js_code_on_chrome_console.png)
 
 #### Brauzer Konsolunda Kodun Yazılması
 
@@ -162,7 +162,7 @@ console.log('Hello, World!')
 
 **console.log()** funksiyası vergüllə ayrılmış çoxlu parametrləri qəbul edə bilər. Sintaksis aşağıdakı kimi görünür:**console.log(param1, param2, param3)**
 
-![console log multiple arguments](./images/console_log_multipl_arguments.png)
+![console log multiple arguments](../images/console_log_multipl_arguments.png)
 
 ```js
 console.log('Hello', 'World', '!')
@@ -196,7 +196,7 @@ JavaScript internetin dilidir
 
 Proqramlaşdırma dilləri insan dillərinə bənzəyir. Azərbaycan və ya bir çox başqa dillər mənalı mesajı çatdırmaq üçün sözlər, ifadələr, cümlələr, mürəkkəb cümlələr və sair istifadə edir. Sintaksisin Azərbaycanca mənası _bir dilə xas olan cümlə quruluşu və cümlədə sözlərin birləşməsi üsuludur._ Sintaksisin texniki tərifi kompüter dilində ifadələrin strukturudur. Proqramlaşdırma dillərində sintaksis var. JavaScript proqramlaşdırma dilidir və digər proqramlaşdırma dilləri kimi onun da öz sintaksisi var. JavaScript-in başa düşdüyü sintaksisi yazmasaq, o, müxtəlif növ xətaları artıracaq. Müxtəlif növ JavaScript xətalarını daha sonra araşdıracağıq. Hələlik gəlin sintaksis səhvlərinə baxaq.
 
-![Error](images/raising_syntax_error.png)
+![Error](../images/raising_syntax_error.png)
 
 Mən qəsdən səhv etdim. Nəticədə, konsol sintaksis səhvlərini artırır. Əslində, sintaksis çox informativdir. Hansı növ səhvə yol verildiyini bildirir. Səhv rəyi təlimatını oxumaqla biz sintaksisi düzəldə və problemi həll edə bilərik. Proqramdakı xətaların müəyyən edilməsi və aradan qaldırılması prosesi sazlama(debugging) adlanır. Gəlin səhvləri düzəldək:
 
@@ -221,7 +221,7 @@ console.log(`Hello, World!`)
 
 İndi gəlin rəqəm(Number) məlumat növləri üçün Google Chrome konsolunda _console.log()_ istifadə edərək JavaScript kodlarının yazılmasını daha çox məşq edək. Yazılardan əlavə JavaScript-dən istifadə edərək riyazi hesablamalar da edə bilərik. Aşağıdakı sadə hesablamaları aparaq. Konsol birbaşa **_console.log()_** funksiyası olmadan arqumentləri qəbul edə bilər. Bununla belə, bu misalda girişə daxil edilmişdir, çünki bu problemin əksəriyyəti funksiyadan istifadənin məcburi olduğu mətn redaktorunda baş verəcəkdir. Konsoldakı təlimatları birbaşa dəyişə bilərsiniz.
 
-![Arithmetic](images/arithmetic.png)
+![Arithmetic](../images/arithmetic.png)
 
 ```js
 console.log(2 + 3) // Addition - Toplama 
@@ -240,7 +240,7 @@ Kodlarımızı brauzer konsolunda yaza bilərik, lakin bu, daha böyük layihəl
 
 Visual studio kodu çox məşhur açıq mənbəli mətn redaktorudur. Mən [Visual Studio Kodunu endirməyi](https://code.visualstudio.com/) tövsiyə edərdim, lakin digər redaktorların tərəfdarısınızsa, əlinizdə olanlardan da istifadə edə bilərsiniz.
 
-![Vscode](images/vscode.png)
+![Vscode](../images/vscode.png)
 
 Əgər siz Visual Studio Kodunu quraşdırmısınızsa, ondan istifadə etməyə başlayaq.
 
@@ -248,19 +248,19 @@ Visual studio kodu çox məşhur açıq mənbəli mətn redaktorudur. Mən [Visu
 
 Simgesini iki dəfə klikləməklə Visual Studio Kodunu açın. Onu açdığınız zaman belə bir interfeys əldə edəcəksiniz. İşarələnmiş yerlərə diqqət yetirin.
 
-![Vscode ui](./images/vscode_ui.png)
+![Vscode ui](../images/vscode_ui.png)
 
-![Vscode add project](./images/adding_project_to_vscode.png)
+![Vscode add project](../images/adding_project_to_vscode.png)
 
-![Vscode open project](./images/opening_project_on_vscode.png)
+![Vscode open project](../images/opening_project_on_vscode.png)
 
-![script file](images/scripts_on_vscode.png)
+![script file](../images/scripts_on_vscode.png)
 
-![Installing Live Server](images/vsc_live_server.png)
+![Installing Live Server](../images/vsc_live_server.png)
 
-![running script](./images/running_script.png)
+![running script](../images/running_script.png)
 
-![coding running](./images/launched_on_new_tab.png)
+![coding running](../images/launched_on_new_tab.png)
 
 ## Veb səhifəyə JavaScript əlavə edilməsi
 
@@ -327,7 +327,7 @@ Daxili skript _head(baş)_ və ya _body(gövdə)_ yazıla bilər, lakin onu HTML
 
 console.log()-dakı çıxışı görmək üçün brauzer konsolunu açın
 
-![js code from vscode](./images/js_code_vscode.png)
+![js code from vscode](../images/js_code_vscode.png)
 
 ### Xarici «External» skript
 
@@ -391,7 +391,7 @@ console.log('Hello, World!')
 
 _main.js(əsas js) faylınız bütün digər skriptlərin altında olmalıdır._ Bunu xatırlamaq çox vacibdir.
 
-![Multiple Script](./images/multiple_script.png)
+![Multiple Script](../images/multiple_script.png)
 
 ## Məlumat növlərinə «Data Types» giriş
 
@@ -584,7 +584,7 @@ Asabeneh teacher Finland
 
 01 Günlük qovluqda _index.html_ faylını işə saldığınız zaman bunu əldə etməlisiniz:
 
-![Day one](./images/day_1.png)
+![Day one](../images/day_1.png)
 
 🌕 Möhtəşəmsiz! 1-ci günü yenicə tamamladınız və mükəmməlliyə doğru gedirsiniz. İndi beyniniz və əzələniz üçün bəzi məşqlər edin.
 
