@@ -109,14 +109,14 @@ Bu dərsliyi hazırlayarkən mən Node 12.14.0 versiyasından istifadə edirdim,
 
 Orada bir çox brauzer var. Bununla belə, mən Google Chrome-u şiddətlə tövsiyə edirəm.
 
-#### Google Chrome quraşdırılır
+#### Google Chrome-un quraşdırılması
 
 Əgər hələ də yoxdursa, [Google Chrome](https://www.google.com/chrome/) quraşdırın.
 Install [Google Chrome](https://www.google.com/chrome/) if you do not have one yet. Biz brauzer konsolunda kiçik JavaScript kodu yaza bilərik, lakin proqramların hazırlanması üçün brauzer konsolundan istifadə etmirik.
 
 ![Google Chrome](../images/google_chrome.png)
 
-#### Google Chrome Konsolu açılır
+#### Google Chrome konsol açılışı
 
 Siz Google Chrome konsolunu brauzerin yuxarı sağ küncündəki üç nöqtəyə klikləməklə, Daha çox alətlər -> Developer alətləri seçməklə və ya klaviatura qısa yolundan istifadə etməklə aça bilərsiniz. Qısayollardan istifadə etməyi üstün tuturam.
 
