@@ -25,7 +25,7 @@
 
 [Gün 2 >>](./AZ/02_Day_Data_types/02_day_data_types.md)
 
-![Thirty Days Of JavaScript](./images/day_1_1.png)
+![Thirty Days Of JavaScript](../images/day_1_1.png)
 
 - [📔 Gün 1](#-day-1)
   - [Giriş](#introduction)
