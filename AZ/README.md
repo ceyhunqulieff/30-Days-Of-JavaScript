@@ -16,7 +16,7 @@
 
   🇬🇧 [English](../readMe.md)
   🇪🇸 [Spanish](../Spanish/readme.md)
-  🇷🇺 [Russian](../README.md)
+  🇷🇺 [Russian](../RU/README.md)
   🇦🇿 [Azerbaijan](./README.md)
 
   </div>
