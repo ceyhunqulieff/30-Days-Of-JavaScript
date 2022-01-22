@@ -27,10 +27,10 @@
 
 ![Thirty Days Of JavaScript](../images/day_1_1.png)
 
-- [📔 Gün 1](#-day-1)
-  - [Giriş](#introduction)
-  - [Tələblər](#requirements)
-  - [Qurmaq](#setup)
+- [📔 Gün 1](#-gün-1)
+  - [Giriş](#giriş)
+  - [Tələblər](#tələblər)
+  - [Qurmaq](#qurmaq)
     - [Node.js quraşdırın](#install-nodejs)
     - [Brauzer](#browser)
       - [Google Chrome-un quraşdırılması](#installing-google-chrome)
