@@ -223,14 +223,14 @@ console.log(`Hello, World!`)
 
 ![Arithmetic](../images/arithmetic.png)
 
-<pre>js
+```js
 console.log(2 + 3) // Addition - Toplama 
 console.log(3 - 2) // Subtraction - Çıxarma
 console.log(2 * 3) // Multiplication - Vurma
 console.log(3 / 2) // Division - Bölmə
 console.log(3 % 2) // Modulus(finding remainder) - Modul(qalıq tapmaq)
 console.log(3 ** 2) // Exponentiation 3 ** 2 == 3 * 3 - Qüvvətə yüksəltmə
-</pre>
+```
 
 ### Kod redaktoru
 
