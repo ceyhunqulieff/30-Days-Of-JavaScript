@@ -74,7 +74,7 @@ JavaScript veb-saytlara **interaktivlik əlavə etmək, mobil proqramlar, masa �
 
 ## Tələblər
 
-Bu çağırışı yerinə yetirmək üçün proqramlaşdırma üzrə əvvəlcədən bilik tələb olunmur. Sizə yalnız lazımdır:
+Bu çağırışa qoşulmaq üçün proqramlaşdırma üzrə əvvəlcədən bilik tələb olunmur. Sizə yalnız lazımdır:
 
 1. Motivasiya
 2. Kompüter
