@@ -17,7 +17,7 @@
 
 [<< Gün 1](../README.md) | [Gün 3 >>](../03_Day_Booleans_operators_date/03_booleans_operators_date.md)
 
-![Thirty Days Of JavaScript](../images/banners/day_1_2.png)
+![Thirty Days Of JavaScript](.../images/banners/day_1_2.png)
 
 - [📔 Gün 2](#-day-2)
   - [Məlumat növləri «Data Types»](#data-types)
