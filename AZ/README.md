@@ -111,8 +111,7 @@ Orada bir çox brauzer var. Bununla belə, mən Google Chrome-u şiddətlə töv
 
 #### Google Chrome-un quraşdırılması
 
-Əgər hələ də yoxdursa, [Google Chrome](https://www.google.com/chrome/) quraşdırın.
-Install [Google Chrome](https://www.google.com/chrome/) if you do not have one yet. Biz brauzer konsolunda kiçik JavaScript kodu yaza bilərik, lakin proqramların hazırlanması üçün brauzer konsolundan istifadə etmirik.
+Əgər hələ də yoxdursa, [Google Chrome](https://www.google.com/chrome/) quraşdırın. Biz brauzer konsolunda kiçik JavaScript kodu yaza bilərik, lakin proqramların hazırlanması üçün brauzer konsolundan istifadə etmirik.
 
 ![Google Chrome](../images/google_chrome.png)
 
