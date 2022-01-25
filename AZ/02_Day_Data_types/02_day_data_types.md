@@ -442,7 +442,7 @@ console.log(firstName.length); // 8
 
 2. _Sətirdəki simvollara daxil olmaq:_ Biz onun indeksindən istifadə edərək sətirdəki hər simvola daxil ola bilərik. Proqramlaşdırmada sayma 0-dan başlayır. Sətirin birinci indeksi sıfıra, sonuncu indeks isə sətirin uzunluğu çıxılsın birə bərabərdir.
 
-![Accessing sting by index](../images/string_indexes.png)
+![Accessing sting by index](../../images/string_indexes.png)
 
 'JavaScript' sətirində müxtəlif simvollara daxil olaq.
 
